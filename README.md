@@ -1,4 +1,4 @@
-# Social-Sharing-Buttons-in-Javascript
+# Social Sharing Buttons in Javascript
 Custom social sharing floting buttons widgets in html, css and javascript, for wordpress, blogger and any custom websites.
 ![Social Buttons Screenshot](https://github.com/airaju94/Social-Sharing-Buttons-in-Javascript/blob/ba4657bbf224acbc7339dddc6bafada6908bc809/src/Screenshot-Social-Sharing-Buttons.png)
 
