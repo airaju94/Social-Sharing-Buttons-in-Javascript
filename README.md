@@ -1,5 +1,7 @@
 # Social Sharing Buttons in Javascript
-Custom social sharing floting buttons widgets in html, css and javascript, for wordpress, blogger and any custom websites.
+Introducing Social Sharing Button - the easy and elegant solution for website owners to add social sharing buttons to their website! Social Sharing Button supports 15 of the most popular social media networks, including Facebook, Twitter, Instagram, Pinterest, LinkedIn, and more.
+
+This Social Sharing Button is designed to be easy to integrate with any website, regardless of the platform. Simply add our JavaScript code to your website, and it will automatically generate social media sharing buttons for your content. You can customize the button's appearance and behavior to match your website's branding and functionality requirements.
 ![Social Buttons Screenshot](https://github.com/airaju94/Social-Sharing-Buttons-in-Javascript/blob/ba4657bbf224acbc7339dddc6bafada6908bc809/src/Screenshot-Social-Sharing-Buttons.png)
 
 # Features
