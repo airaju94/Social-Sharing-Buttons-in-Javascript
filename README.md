@@ -73,7 +73,7 @@ Currently i have added only 15 most popular social media to this widget, you can
 - Line
 
 ## Sponsore This Project & Contribute
-Sponsore & Contributors are always welcome, help & support this project by contributing & sponsoring
+Sponsore & Contributors are always welcome, help & support this project by contributing or sponsoring
 
 Website: [CodeFast](https://codefast.online)
 
