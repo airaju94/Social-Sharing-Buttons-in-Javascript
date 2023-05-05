@@ -77,8 +77,8 @@ Currently i have added only 15 most popular social media to this widget, you can
 ## Sponsore This Project & Contribute
 Sponsore & Contributors are always welcome, help & support this project by contributing or sponsoring
 
-Website: [CodeFast](https://codefast.online)
+Website: [SFROM](https://www.sfrom.online)
 
-Contact: [Contact With Me!](https://codefast.online/contact/)
+Contact: [Contact With Me!]([https://codefast.online/contact/](https://www.sfrom.online/contact-us/))
 
 **Thank You!**
